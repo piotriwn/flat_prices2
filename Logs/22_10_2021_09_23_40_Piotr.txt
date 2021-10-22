@@ -1,0 +1,684 @@
+Attempting to reach OLX.pl site...
+Checking if there's cookies' prompt to accept...
+Attempting to accept cookies' prompt... Successully landed on real estate page.
+Attempting to confirm we've landed on OLX.pl page...
+Success.
+Attempting to click on real estate icon... Success.
+Attempting to click on flats link... Success.
+Attempting to confirm landing on subpage 1... Success.
+---------------------
+Attempting to fill in criteria...
+Attempting to fill in city Katowice... Success.
+Attempting to fill in offer category Sprzedaż... Success.
+Attempting to set price from 120000 to 320000... Success.
+Attempting to set area from 45... Success.
+Attempting to choose the following number of rooms: 3 pokoje, 4 i więcej... Success.
+---------------------
+
+Criteria for city Katowice filled successfully.
+Iterating through subpages in city {city}...
+
+Checking if there are subpages available...
+Locating next page <span> tag... The page does not have a pager <div>, therefore cannot go further.
+Attempting to scrape links from subpage... Success.
+---------------------
+Finished iterating through subpages successfully.
+Scrapping links for city Katowice finished successfully
+--
+Attempting to fill in criteria...
+Attempting to fill in city Chorzów... Success.
+Attempting to fill in offer category Sprzedaż... Success.
+Attempting to set price from 120000 to 320000... Success.
+Attempting to set area from 45... Success.
+Attempting to choose the following number of rooms: 3 pokoje, 4 i więcej... Success.
+---------------------
+
+Criteria for city Chorzów filled successfully.
+Iterating through subpages in city {city}...
+
+Checking if there are subpages available...
+Locating next page <span> tag... The page does not have a pager <div>, therefore cannot go further.
+Attempting to scrape links from subpage... Success.
+---------------------
+Finished iterating through subpages successfully.
+Scrapping links for city Chorzów finished successfully
+--
+Attempting to fill in criteria...
+Attempting to fill in city Ruda Śląska... Success.
+Attempting to fill in offer category Sprzedaż... Success.
+Attempting to set price from 120000 to 320000... Success.
+Attempting to set area from 45... Success.
+Attempting to choose the following number of rooms: 3 pokoje, 4 i więcej... Success.
+---------------------
+
+Criteria for city Ruda Śląska filled successfully.
+Iterating through subpages in city {city}...
+
+Checking if there are subpages available...
+Locating next page <span> tag... Success.
+Checking if <span> tag contains <a> tag... YES, there are pages available.
+Attempting to scrape links from subpage... Success.
+---------------------
+Finished iterating through subpages successfully.
+Scrapping links for city Ruda Śląska finished successfully
+--
+Attempting to fill in criteria...
+Attempting to fill in city Siemianowice Śląskie... Success.
+Attempting to fill in offer category Sprzedaż... Success.
+Attempting to set price from 120000 to 320000... Success.
+Attempting to set area from 45... Success.
+Attempting to choose the following number of rooms: 3 pokoje, 4 i więcej... Success.
+---------------------
+
+Criteria for city Siemianowice Śląskie filled successfully.
+Iterating through subpages in city {city}...
+
+Checking if there are subpages available...
+Locating next page <span> tag... The page does not have a pager <div>, therefore cannot go further.
+Attempting to scrape links from subpage... Success.
+---------------------
+Finished iterating through subpages successfully.
+Scrapping links for city Siemianowice Śląskie finished successfully
+--
+Attempting to fill in criteria...
+Attempting to fill in city Świętochłowice... Success.
+Attempting to fill in offer category Sprzedaż... Success.
+Attempting to set price from 120000 to 320000... Success.
+Attempting to set area from 45... Success.
+Attempting to choose the following number of rooms: 3 pokoje, 4 i więcej... Success.
+---------------------
+
+Criteria for city Świętochłowice filled successfully.
+Iterating through subpages in city {city}...
+
+Checking if there are subpages available...
+Locating next page <span> tag... The page does not have a pager <div>, therefore cannot go further.
+Attempting to scrape links from subpage... Success.
+---------------------
+Finished iterating through subpages successfully.
+Scrapping links for city Świętochłowice finished successfully
+--
+Attempting to fill in criteria...
+Attempting to fill in city Mysłowice... Success.
+Attempting to fill in offer category Sprzedaż... Success.
+Attempting to set price from 120000 to 320000... Success.
+Attempting to set area from 45... Success.
+Attempting to choose the following number of rooms: 3 pokoje, 4 i więcej... Success.
+---------------------
+
+Criteria for city Mysłowice filled successfully.
+Iterating through subpages in city {city}...
+
+Checking if there are subpages available...
+Locating next page <span> tag... The page does not have a pager <div>, therefore cannot go further.
+Attempting to scrape links from subpage... Success.
+---------------------
+Finished iterating through subpages successfully.
+Scrapping links for city Mysłowice finished successfully
+--
+
+
+---------------------
+
+Attempting to scrape data from gathered links.
+Attemping to set advert object with an URL of https://www.olx.pl/d/oferta/3-pokoje-na-ligocie-bezposrednio-z-balkonem-CID3-IDM78PL.html#537712da81;promoted site data... Success.
+Attemping to set fields of object with an URL of https://www.olx.pl/d/oferta/3-pokoje-na-ligocie-bezposrednio-z-balkonem-CID3-IDM78PL.html#537712da81;promoted... Success.
+--
+Attemping to set advert object with an URL of https://www.olx.pl/d/oferta/3-pokoje-na-koszutce-widokowe-inwestycja-bezposrednio-CID3-IDM75Wj.html#537712da81;promoted site data... Success.
+Attemping to set fields of object with an URL of https://www.olx.pl/d/oferta/3-pokoje-na-koszutce-widokowe-inwestycja-bezposrednio-CID3-IDM75Wj.html#537712da81;promoted... Success.
+--
+Attemping to set advert object with an URL of https://www.olx.pl/d/oferta/mieszkanie-2-lub-3-pokoje-janow-bezposrednio-CID3-IDM6l9y.html#537712da81;promoted site data... Success.
+Attemping to set fields of object with an URL of https://www.olx.pl/d/oferta/mieszkanie-2-lub-3-pokoje-janow-bezposrednio-CID3-IDM6l9y.html#537712da81;promoted... Success.
+--
+Attemping to set advert object with an URL of https://www.olx.pl/d/oferta/katowice-giszowiec-mieszkanie-niski-blok-CID3-IDLyde1.html#537712da81;promoted site data... Success.
+Attemping to set fields of object with an URL of https://www.olx.pl/d/oferta/katowice-giszowiec-mieszkanie-niski-blok-CID3-IDLyde1.html#537712da81;promoted... Success.
+--
+Attemping to set advert object with an URL of https://www.olx.pl/d/oferta/katowice-giszowiec-mieszkanie-niski-blok-CID3-IDLyde1.html#537712da81;promoted site data... Success.
+Attemping to set fields of object with an URL of https://www.olx.pl/d/oferta/katowice-giszowiec-mieszkanie-niski-blok-CID3-IDLyde1.html#537712da81;promoted... Success.
+--
+Attemping to set advert object with an URL of https://www.olx.pl/d/oferta/3-pokoje-na-ligocie-bezposrednio-z-balkonem-CID3-IDM78PL.html#537712da81;promoted site data... Success.
+Attemping to set fields of object with an URL of https://www.olx.pl/d/oferta/3-pokoje-na-ligocie-bezposrednio-z-balkonem-CID3-IDM78PL.html#537712da81;promoted... Success.
+--
+Attemping to set advert object with an URL of https://www.olx.pl/d/oferta/3-pokoje-na-koszutce-widokowe-inwestycja-bezposrednio-CID3-IDM75Wj.html#537712da81;promoted site data... Success.
+Attemping to set fields of object with an URL of https://www.olx.pl/d/oferta/3-pokoje-na-koszutce-widokowe-inwestycja-bezposrednio-CID3-IDM75Wj.html#537712da81;promoted... Success.
+--
+Attemping to set advert object with an URL of https://www.olx.pl/d/oferta/3-pokoje-koszutka-bezposrednio-CID3-IDM75oc.html#537712da81 site data... Success.
+Attemping to set fields of object with an URL of https://www.olx.pl/d/oferta/3-pokoje-koszutka-bezposrednio-CID3-IDM75oc.html#537712da81... Success.
+--
+Attemping to set advert object with an URL of https://www.olx.pl/d/oferta/mieszkanie-2-lub-3-pokoje-janow-bezposrednio-CID3-IDM6l9y.html#537712da81;promoted site data... Success.
+Attemping to set fields of object with an URL of https://www.olx.pl/d/oferta/mieszkanie-2-lub-3-pokoje-janow-bezposrednio-CID3-IDM6l9y.html#537712da81;promoted... Success.
+--
+Attemping to set advert object with an URL of https://www.olx.pl/d/oferta/gotowiec-inwestycyjny-z-potencjalem-4-pokoje-gliwicka-CID3-IDJYZSt.html#537712da81 site data... Success.
+Attemping to set fields of object with an URL of https://www.olx.pl/d/oferta/gotowiec-inwestycyjny-z-potencjalem-4-pokoje-gliwicka-CID3-IDJYZSt.html#537712da81... Success.
+--
+Attemping to set advert object with an URL of https://www.olx.pl/d/oferta/gotowiec-inwestycyjny-15-minut-pieszo-od-centrum-gliwicka-4-pokoje-CID3-IDKnlDA.html#537712da81 site data... Success.
+Attemping to set fields of object with an URL of https://www.olx.pl/d/oferta/gotowiec-inwestycyjny-15-minut-pieszo-od-centrum-gliwicka-4-pokoje-CID3-IDKnlDA.html#537712da81... Success.
+--
+Attemping to set advert object with an URL of https://www.olx.pl/d/oferta/rozkladowe-mieszkanie-z-oddzielna-kuchnia-na-ligocie-bezposrednio-CID3-IDM1l7G.html#537712da81 site data... Success.
+Attemping to set fields of object with an URL of https://www.olx.pl/d/oferta/rozkladowe-mieszkanie-z-oddzielna-kuchnia-na-ligocie-bezposrednio-CID3-IDM1l7G.html#537712da81... Success.
+--
+Attemping to set advert object with an URL of https://www.olx.pl/d/oferta/mieszkanie-w-katowicach-na-sprzedaz-garaz-CID3-IDLYnem.html#537712da81 site data... Success.
+Attemping to set fields of object with an URL of https://www.olx.pl/d/oferta/mieszkanie-w-katowicach-na-sprzedaz-garaz-CID3-IDLYnem.html#537712da81... Success.
+--
+Attemping to set advert object with an URL of https://www.olx.pl/d/oferta/mieszkanie-3-pokoje-ligota-CID3-IDKNwnp.html#537712da81 site data... Success.
+Attemping to set fields of object with an URL of https://www.olx.pl/d/oferta/mieszkanie-3-pokoje-ligota-CID3-IDKNwnp.html#537712da81... Success.
+--
+Attemping to set advert object with an URL of https://www.olx.pl/d/oferta/wyposazone-3-pokojowe-mieszkanie-chorzow-przy-dts-sprzedaz-bezposr-CID3-IDLNgZO.html#3a3751d264;promoted site data... Success.
+Attemping to set fields of object with an URL of https://www.olx.pl/d/oferta/wyposazone-3-pokojowe-mieszkanie-chorzow-przy-dts-sprzedaz-bezposr-CID3-IDLNgZO.html#3a3751d264;promoted... Success.
+--
+Attemping to set advert object with an URL of https://www.olx.pl/d/oferta/mieszkanie-54-7m2-raclawicka-chorzow-CID3-IDLwfIR.html#3a3751d264;promoted site data... Success.
+Attemping to set fields of object with an URL of https://www.olx.pl/d/oferta/mieszkanie-54-7m2-raclawicka-chorzow-CID3-IDLwfIR.html#3a3751d264;promoted... Success.
+--
+Attemping to set advert object with an URL of https://www.olx.pl/d/oferta/sprzedam-mieszkanie-z-balkonem-w-centrum-chorzowa-CID3-IDJruTz.html#3a3751d264;promoted site data... Success.
+Attemping to set fields of object with an URL of https://www.olx.pl/d/oferta/sprzedam-mieszkanie-z-balkonem-w-centrum-chorzowa-CID3-IDJruTz.html#3a3751d264;promoted... Success.
+--
+Attemping to set advert object with an URL of https://www.olx.pl/d/oferta/duze-bezczynszowe-mieszkanie-z-potencjalem-w-kamienicy-balkon-CID3-IDLR936.html#3a3751d264;promoted site data... Success.
+Attemping to set fields of object with an URL of https://www.olx.pl/d/oferta/duze-bezczynszowe-mieszkanie-z-potencjalem-w-kamienicy-balkon-CID3-IDLR936.html#3a3751d264;promoted... Success.
+--
+Attemping to set advert object with an URL of https://www.olx.pl/d/oferta/mieszkanie-54-7m2-raclawicka-chorzow-CID3-IDLwfIR.html#3a3751d264;promoted site data... Success.
+Attemping to set fields of object with an URL of https://www.olx.pl/d/oferta/mieszkanie-54-7m2-raclawicka-chorzow-CID3-IDLwfIR.html#3a3751d264;promoted... Success.
+--
+Attemping to set advert object with an URL of https://www.olx.pl/d/oferta/duze-bezczynszowe-mieszkanie-z-potencjalem-w-kamienicy-balkon-CID3-IDLR936.html#3a3751d264;promoted site data... Success.
+Attemping to set fields of object with an URL of https://www.olx.pl/d/oferta/duze-bezczynszowe-mieszkanie-z-potencjalem-w-kamienicy-balkon-CID3-IDLR936.html#3a3751d264;promoted... Success.
+--
+Attemping to set advert object with an URL of https://www.olx.pl/d/oferta/wyposazone-3-pokojowe-mieszkanie-chorzow-przy-dts-sprzedaz-bezposr-CID3-IDLNgZO.html#3a3751d264;promoted site data... Success.
+Attemping to set fields of object with an URL of https://www.olx.pl/d/oferta/wyposazone-3-pokojowe-mieszkanie-chorzow-przy-dts-sprzedaz-bezposr-CID3-IDLNgZO.html#3a3751d264;promoted... Success.
+--
+Attemping to set advert object with an URL of https://www.olx.pl/d/oferta/sprzedam-mieszkanie-z-balkonem-w-centrum-chorzowa-CID3-IDJruTz.html#3a3751d264;promoted site data... Success.
+Attemping to set fields of object with an URL of https://www.olx.pl/d/oferta/sprzedam-mieszkanie-z-balkonem-w-centrum-chorzowa-CID3-IDJruTz.html#3a3751d264;promoted... Success.
+--
+Attemping to set advert object with an URL of https://www.olx.pl/d/oferta/mieszkanie-60m2-3-pokoje-chorzow-ksiecia-opolskiego-5-CID3-IDLNPHV.html#3a3751d264 site data... Success.
+Attemping to set fields of object with an URL of https://www.olx.pl/d/oferta/mieszkanie-60m2-3-pokoje-chorzow-ksiecia-opolskiego-5-CID3-IDLNPHV.html#3a3751d264... Success.
+--
+Attemping to set advert object with an URL of https://www.olx.pl/d/oferta/mieszkanie-z-2-balkonami-garderoba-i-klimatyzacja-CID3-IDJ6Ddl.html#3a3751d264 site data... Success.
+Attemping to set fields of object with an URL of https://www.olx.pl/d/oferta/mieszkanie-z-2-balkonami-garderoba-i-klimatyzacja-CID3-IDJ6Ddl.html#3a3751d264... Success.
+--
+Attemping to set advert object with an URL of https://www.olx.pl/d/oferta/chorzow-ul-szybowa-blisko-centrum-mieszkanie-na-sprzedaz-CID3-IDLJid2.html#3a3751d264 site data... Success.
+Attemping to set fields of object with an URL of https://www.olx.pl/d/oferta/chorzow-ul-szybowa-blisko-centrum-mieszkanie-na-sprzedaz-CID3-IDLJid2.html#3a3751d264... Success.
+--
+Attemping to set advert object with an URL of https://www.olx.pl/d/oferta/sprzedam-mieszkanie-m4-1-pietro-chorzow-46-4m2-loggia-2m2-CID3-IDKgTlw.html#3a3751d264 site data... Success.
+Attemping to set fields of object with an URL of https://www.olx.pl/d/oferta/sprzedam-mieszkanie-m4-1-pietro-chorzow-46-4m2-loggia-2m2-CID3-IDKgTlw.html#3a3751d264... Success.
+--
+Attemping to set advert object with an URL of https://www.olx.pl/d/oferta/rezerwacja-chorzow-klimzowiec-os-rozanka-trzypokojowe-mieszkanie-CID3-IDKNvbD.html#3a3751d264 site data... Success.
+Attemping to set fields of object with an URL of https://www.olx.pl/d/oferta/rezerwacja-chorzow-klimzowiec-os-rozanka-trzypokojowe-mieszkanie-CID3-IDKNvbD.html#3a3751d264... Success.
+--
+Attemping to set advert object with an URL of https://www.olx.pl/d/oferta/ladne-sloneczne3-pokojowe-mieszkanie-w-centrum-CID3-IDJRSLF.html#3a3751d264 site data... Success.
+Attemping to set fields of object with an URL of https://www.olx.pl/d/oferta/ladne-sloneczne3-pokojowe-mieszkanie-w-centrum-CID3-IDJRSLF.html#3a3751d264... Success.
+--
+Attemping to set advert object with an URL of https://www.olx.pl/d/oferta/nowa-oferta-3-pokojowe-mieszkanie-w-chorzowie-ul-chalupki-CID3-IDLFLpm.html#3a3751d264 site data... Success.
+Attemping to set fields of object with an URL of https://www.olx.pl/d/oferta/nowa-oferta-3-pokojowe-mieszkanie-w-chorzowie-ul-chalupki-CID3-IDLFLpm.html#3a3751d264... Success.
+--
+Attemping to set advert object with an URL of https://www.olx.pl/d/oferta/3-pokojowe-mieszkanie-ruda-slaska-wirek-bezposrednio-CID3-IDM60Rv.html#f489621e81;promoted site data... Success.
+Attemping to set fields of object with an URL of https://www.olx.pl/d/oferta/3-pokojowe-mieszkanie-ruda-slaska-wirek-bezposrednio-CID3-IDM60Rv.html#f489621e81;promoted... Success.
+--
+Attemping to set advert object with an URL of https://www.olx.pl/d/oferta/mieszkanie-3-pokojowe-klimatyzowane-z-dwoma-balkonami-CID3-IDKfFx1.html#f489621e81;promoted site data... Success.
+Attemping to set fields of object with an URL of https://www.olx.pl/d/oferta/mieszkanie-3-pokojowe-klimatyzowane-z-dwoma-balkonami-CID3-IDKfFx1.html#f489621e81;promoted... Success.
+--
+Attemping to set advert object with an URL of https://www.olx.pl/d/oferta/sprzedam-mieszkanie-CID3-IDLq6eS.html#f489621e81;promoted site data... Success.
+Attemping to set fields of object with an URL of https://www.olx.pl/d/oferta/sprzedam-mieszkanie-CID3-IDLq6eS.html#f489621e81;promoted... Success.
+--
+Attemping to set advert object with an URL of https://www.olx.pl/d/oferta/mieszkanie-na-sprzedaz-ruda-slaska-CID3-IDLTFwd.html#f489621e81;promoted site data... Success.
+Attemping to set fields of object with an URL of https://www.olx.pl/d/oferta/mieszkanie-na-sprzedaz-ruda-slaska-CID3-IDLTFwd.html#f489621e81;promoted... Success.
+--
+Attemping to set advert object with an URL of https://www.olx.pl/d/oferta/ruda-slaska-halemba-3-pokoje-po-remoncie-CID3-IDLSWog.html#f489621e81;promoted site data... Success.
+Attemping to set fields of object with an URL of https://www.olx.pl/d/oferta/ruda-slaska-halemba-3-pokoje-po-remoncie-CID3-IDLSWog.html#f489621e81;promoted... Success.
+--
+Attemping to set advert object with an URL of https://www.olx.pl/d/oferta/godula-3-pokojowe-wyposazone-mieszkanie-od-wlasciciela-CID3-IDLzJ3Z.html#f489621e81 site data... Success.
+Attemping to set fields of object with an URL of https://www.olx.pl/d/oferta/godula-3-pokojowe-wyposazone-mieszkanie-od-wlasciciela-CID3-IDLzJ3Z.html#f489621e81... Success.
+--
+Attemping to set advert object with an URL of https://www.olx.pl/d/oferta/mieszkanie-3-pokojowe-w-halembie-CID3-IDLKfzJ.html#f489621e81 site data... Success.
+Attemping to set fields of object with an URL of https://www.olx.pl/d/oferta/mieszkanie-3-pokojowe-w-halembie-CID3-IDLKfzJ.html#f489621e81... Success.
+--
+Attemping to set advert object with an URL of https://www.olx.pl/d/oferta/sprzedam-mieszkanie-CID3-IDLq6eS.html#f489621e81;promoted site data... Success.
+Attemping to set fields of object with an URL of https://www.olx.pl/d/oferta/sprzedam-mieszkanie-CID3-IDLq6eS.html#f489621e81;promoted... Success.
+--
+Attemping to set advert object with an URL of https://www.olx.pl/d/oferta/sprzedam-mieszkanie-CID3-IDM6XX8.html#f489621e81 site data... Success.
+Attemping to set fields of object with an URL of https://www.olx.pl/d/oferta/sprzedam-mieszkanie-CID3-IDM6XX8.html#f489621e81... Success.
+--
+Attemping to set advert object with an URL of https://www.olx.pl/d/oferta/mieszkanie-ruda-slaska-parter-bez-posrednikow-CID3-IDM6VaE.html#f489621e81 site data... Success.
+Attemping to set fields of object with an URL of https://www.olx.pl/d/oferta/mieszkanie-ruda-slaska-parter-bez-posrednikow-CID3-IDM6VaE.html#f489621e81... Success.
+--
+Attemping to set advert object with an URL of https://www.olx.pl/d/oferta/mieszkanie-3-pokojowe-klimatyzowane-z-dwoma-balkonami-CID3-IDKfFx1.html#f489621e81;promoted site data... Success.
+Attemping to set fields of object with an URL of https://www.olx.pl/d/oferta/mieszkanie-3-pokojowe-klimatyzowane-z-dwoma-balkonami-CID3-IDKfFx1.html#f489621e81;promoted... Success.
+--
+Attemping to set advert object with an URL of https://www.olx.pl/d/oferta/3-pokojowe-mieszkanie-ruda-slaska-wirek-bezposrednio-CID3-IDM60Rv.html#f489621e81;promoted site data... Success.
+Attemping to set fields of object with an URL of https://www.olx.pl/d/oferta/3-pokojowe-mieszkanie-ruda-slaska-wirek-bezposrednio-CID3-IDM60Rv.html#f489621e81;promoted... Success.
+--
+Attemping to set advert object with an URL of https://www.olx.pl/d/oferta/ruda-slaska-halemba-3-pokoje-po-remoncie-CID3-IDLSWog.html#f489621e81;promoted site data... Success.
+Attemping to set fields of object with an URL of https://www.olx.pl/d/oferta/ruda-slaska-halemba-3-pokoje-po-remoncie-CID3-IDLSWog.html#f489621e81;promoted... Success.
+--
+Attemping to set advert object with an URL of https://www.olx.pl/d/oferta/mieszkanie-3-pokoje-47m-ruda-slaska-CID3-IDLji82.html#f489621e81 site data... Success.
+Attemping to set fields of object with an URL of https://www.olx.pl/d/oferta/mieszkanie-3-pokoje-47m-ruda-slaska-CID3-IDLji82.html#f489621e81... Success.
+--
+Attemping to set advert object with an URL of https://www.olx.pl/d/oferta/3-pokojowe-rozkladowe-mieszkanie-z-duzym-balkonem-CID3-IDLpkJZ.html#f489621e81 site data... Success.
+Attemping to set fields of object with an URL of https://www.olx.pl/d/oferta/3-pokojowe-rozkladowe-mieszkanie-z-duzym-balkonem-CID3-IDLpkJZ.html#f489621e81... Success.
+--
+Attemping to set advert object with an URL of https://www.olx.pl/d/oferta/mieszkanie-49m2-po-remoncie-bykowina-CID3-IDM1x10.html#f489621e81 site data... Success.
+Attemping to set fields of object with an URL of https://www.olx.pl/d/oferta/mieszkanie-49m2-po-remoncie-bykowina-CID3-IDM1x10.html#f489621e81... Success.
+--
+Attemping to set advert object with an URL of https://www.olx.pl/d/oferta/duze-przestronne-mieszkanie-62m-CID3-IDLKKV4.html#f489621e81 site data... Success.
+Attemping to set fields of object with an URL of https://www.olx.pl/d/oferta/duze-przestronne-mieszkanie-62m-CID3-IDLKKV4.html#f489621e81... Success.
+--
+Attemping to set advert object with an URL of https://www.olx.pl/d/oferta/ruda-sl-godula-ul-joanny-3-pok-CID3-IDLY9fk.html#f489621e81 site data... Success.
+Attemping to set fields of object with an URL of https://www.olx.pl/d/oferta/ruda-sl-godula-ul-joanny-3-pok-CID3-IDLY9fk.html#f489621e81... Success.
+--
+Attemping to set advert object with an URL of https://www.olx.pl/d/oferta/duze-mieszkanie-do-remontu-3pok-bykowina-CID3-IDJ3JFr.html#f489621e81 site data... Success.
+Attemping to set fields of object with an URL of https://www.olx.pl/d/oferta/duze-mieszkanie-do-remontu-3pok-bykowina-CID3-IDJ3JFr.html#f489621e81... Success.
+--
+Attemping to set advert object with an URL of https://www.olx.pl/d/oferta/stylowe-3-pokojowe-mieszkanie-w-spokojnej-okolicy-na-osiedlu-tuwim-CID3-IDLD1QE.html#1970e13ffc;promoted site data... Success.
+Attemping to set fields of object with an URL of https://www.olx.pl/d/oferta/stylowe-3-pokojowe-mieszkanie-w-spokojnej-okolicy-na-osiedlu-tuwim-CID3-IDLD1QE.html#1970e13ffc;promoted... Success.
+--
+Attemping to set advert object with an URL of https://www.olx.pl/d/oferta/mieszkanie-3-pok-bezczynszowe-blisko-katowice-meble-w-pokoju-gratis-CID3-IDLf70C.html#1970e13ffc;promoted site data... Success.
+Attemping to set fields of object with an URL of https://www.olx.pl/d/oferta/mieszkanie-3-pok-bezczynszowe-blisko-katowice-meble-w-pokoju-gratis-CID3-IDLf70C.html#1970e13ffc;promoted... Success.
+--
+Attemping to set advert object with an URL of https://www.olx.pl/d/oferta/sprzedam-3-pokojowe-mieszkanie-garaz-CID3-IDLXFxj.html#1970e13ffc site data... Success.
+Attemping to set fields of object with an URL of https://www.olx.pl/d/oferta/sprzedam-3-pokojowe-mieszkanie-garaz-CID3-IDLXFxj.html#1970e13ffc... Success.
+--
+Attemping to set advert object with an URL of https://www.olx.pl/d/oferta/sprzedam-mieszkanie-bytkow-CID3-IDLwjXO.html#1970e13ffc site data... Success.
+Attemping to set fields of object with an URL of https://www.olx.pl/d/oferta/sprzedam-mieszkanie-bytkow-CID3-IDLwjXO.html#1970e13ffc... Success.
+--
+Attemping to set advert object with an URL of https://www.olx.pl/d/oferta/nieruchomosc-mieszkanie-CID3-IDKn3QJ.html#1970e13ffc site data... Success.
+Attemping to set fields of object with an URL of https://www.olx.pl/d/oferta/nieruchomosc-mieszkanie-CID3-IDKn3QJ.html#1970e13ffc... Success.
+--
+Attemping to set advert object with an URL of https://www.olx.pl/d/oferta/mieszkanie-3-pok-bezczynszowe-blisko-katowice-meble-w-pokoju-gratis-CID3-IDLf70C.html#1970e13ffc;promoted site data... Success.
+Attemping to set fields of object with an URL of https://www.olx.pl/d/oferta/mieszkanie-3-pok-bezczynszowe-blisko-katowice-meble-w-pokoju-gratis-CID3-IDLf70C.html#1970e13ffc;promoted... Success.
+--
+Attemping to set advert object with an URL of https://www.olx.pl/d/oferta/stylowe-3-pokojowe-mieszkanie-w-spokojnej-okolicy-na-osiedlu-tuwim-CID3-IDLD1QE.html#1970e13ffc;promoted site data... Success.
+Attemping to set fields of object with an URL of https://www.olx.pl/d/oferta/stylowe-3-pokojowe-mieszkanie-w-spokojnej-okolicy-na-osiedlu-tuwim-CID3-IDLD1QE.html#1970e13ffc;promoted... Success.
+--
+Attemping to set advert object with an URL of https://www.olx.pl/d/oferta/mieszkanie-w-idealnej-lokalizacji-3-pokojowe-61-m2-CID3-IDLydaQ.html#1970e13ffc site data... Success.
+Attemping to set fields of object with an URL of https://www.olx.pl/d/oferta/mieszkanie-w-idealnej-lokalizacji-3-pokojowe-61-m2-CID3-IDLydaQ.html#1970e13ffc... Success.
+--
+Attemping to set advert object with an URL of https://www.olx.pl/d/oferta/sprzedam-mieszkanie-3-pokoje-CID3-IDLv11N.html#1970e13ffc site data... Success.
+Attemping to set fields of object with an URL of https://www.olx.pl/d/oferta/sprzedam-mieszkanie-3-pokoje-CID3-IDLv11N.html#1970e13ffc... Success.
+--
+Attemping to set advert object with an URL of https://www.olx.pl/d/oferta/mieszkanie-3-pok-bezczynszowe-siemianowice-po-remoncie-CID3-IDLSvcX.html#1970e13ffc site data... Success.
+Attemping to set fields of object with an URL of https://www.olx.pl/d/oferta/mieszkanie-3-pok-bezczynszowe-siemianowice-po-remoncie-CID3-IDLSvcX.html#1970e13ffc... Success.
+--
+Attemping to set advert object with an URL of https://www.olx.pl/d/oferta/mieszkanie-3-pokoje-z-balkonem-58-72m2-CID3-IDKMbQ5.html#1970e13ffc site data... Success.
+Attemping to set fields of object with an URL of https://www.olx.pl/d/oferta/mieszkanie-3-pokoje-z-balkonem-58-72m2-CID3-IDKMbQ5.html#1970e13ffc... Success.
+--
+Attemping to set advert object with an URL of https://www.olx.pl/d/oferta/mieszkanie-3-pokojowe-siemianowice-slaskie-bytkow-CID3-IDLIBg3.html#1970e13ffc site data... Success.
+Attemping to set fields of object with an URL of https://www.olx.pl/d/oferta/mieszkanie-3-pokojowe-siemianowice-slaskie-bytkow-CID3-IDLIBg3.html#1970e13ffc... Success.
+--
+Attemping to set advert object with an URL of https://www.olx.pl/d/oferta/sprzedam-mieszkanie-CID3-IDLVcom.html#1970e13ffc site data... Success.
+Attemping to set fields of object with an URL of https://www.olx.pl/d/oferta/sprzedam-mieszkanie-CID3-IDLVcom.html#1970e13ffc... Success.
+--
+Attemping to set advert object with an URL of https://www.olx.pl/d/oferta/3-pokoje-61m-bytkow-siemianowice-slaskie-CID3-IDKf8dG.html#1970e13ffc site data... Success.
+Attemping to set fields of object with an URL of https://www.olx.pl/d/oferta/3-pokoje-61m-bytkow-siemianowice-slaskie-CID3-IDKf8dG.html#1970e13ffc... Success.
+--
+Attemping to set advert object with an URL of https://www.olx.pl/d/oferta/3-pokojowe-mieszkanie-siemianowice-sl-ul-trafalczyka-CID3-IDLkaj9.html#1970e13ffc site data... Success.
+Attemping to set fields of object with an URL of https://www.olx.pl/d/oferta/3-pokojowe-mieszkanie-siemianowice-sl-ul-trafalczyka-CID3-IDLkaj9.html#1970e13ffc... Success.
+--
+Attemping to set advert object with an URL of https://www.olx.pl/d/oferta/sprzedam-mieszkanie-wlasnosciowe-CID3-IDLM9l0.html#1970e13ffc site data... Success.
+Attemping to set fields of object with an URL of https://www.olx.pl/d/oferta/sprzedam-mieszkanie-wlasnosciowe-CID3-IDLM9l0.html#1970e13ffc... Success.
+--
+Attemping to set advert object with an URL of https://www.olx.pl/d/oferta/mieszkanie-73-4m2-swietochlowice-piasniki-CID3-IDLCRY5.html#2df09e095a site data... Success.
+Attemping to set fields of object with an URL of https://www.olx.pl/d/oferta/mieszkanie-73-4m2-swietochlowice-piasniki-CID3-IDLCRY5.html#2df09e095a... Success.
+--
+Attemping to set advert object with an URL of https://www.olx.pl/d/oferta/3-oddzielne-pokoje-w-chorzowie-na-irysie-w-odnowionym-bloku-CID3-IDM4aSy.html#2df09e095a site data... Success.
+Attemping to set fields of object with an URL of https://www.olx.pl/d/oferta/3-oddzielne-pokoje-w-chorzowie-na-irysie-w-odnowionym-bloku-CID3-IDM4aSy.html#2df09e095a... Success.
+--
+Attemping to set advert object with an URL of https://www.olx.pl/d/oferta/mieszkanie-na-sprzedaz-do-zamieszkania-swietochlowice-CID3-IDLfEOZ.html#2df09e095a site data... Success.
+Attemping to set fields of object with an URL of https://www.olx.pl/d/oferta/mieszkanie-na-sprzedaz-do-zamieszkania-swietochlowice-CID3-IDLfEOZ.html#2df09e095a... Success.
+--
+Attemping to set advert object with an URL of https://www.olx.pl/d/oferta/mieszkanie-CID3-IDM0bS2.html#2df09e095a site data... Success.
+Attemping to set fields of object with an URL of https://www.olx.pl/d/oferta/mieszkanie-CID3-IDM0bS2.html#2df09e095a... Success.
+--
+Attemping to set advert object with an URL of https://www.olx.pl/d/oferta/sprzedam-mieszkanie-stan-idealny-CID3-IDLVACw.html#2df09e095a site data... Success.
+Attemping to set fields of object with an URL of https://www.olx.pl/d/oferta/sprzedam-mieszkanie-stan-idealny-CID3-IDLVACw.html#2df09e095a... Success.
+--
+Attemping to set advert object with an URL of https://www.olx.pl/d/oferta/mieszkanie-48m-3-pokoje-4-pietro-szpitalna-swietochlowice-CID3-IDLEeiC.html#2df09e095a site data... Success.
+Attemping to set fields of object with an URL of https://www.olx.pl/d/oferta/mieszkanie-48m-3-pokoje-4-pietro-szpitalna-swietochlowice-CID3-IDLEeiC.html#2df09e095a... Success.
+--
+Attemping to set advert object with an URL of https://www.olx.pl/d/oferta/sprzedam-mieszkanie-62m2-myslowice-brzeczkowice-saperow-slaskich-CID3-IDLSdnY.html#2a0be2b06c site data... Success.
+Attemping to set fields of object with an URL of https://www.olx.pl/d/oferta/sprzedam-mieszkanie-62m2-myslowice-brzeczkowice-saperow-slaskich-CID3-IDLSdnY.html#2a0be2b06c... Success.
+--
+Attemping to set advert object with an URL of https://www.olx.pl/d/oferta/odstapie-mieszkanie-tbs-62m2-z-balkonem-w-myslowicach-CID3-IDKPXY3.html#2a0be2b06c site data... Success.
+Attemping to set fields of object with an URL of https://www.olx.pl/d/oferta/odstapie-mieszkanie-tbs-62m2-z-balkonem-w-myslowicach-CID3-IDKPXY3.html#2a0be2b06c... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/sprzedam-mieszkanie-3-pok-45-m2-katowice-giszowiec-ID4b5Ts.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/sprzedam-mieszkanie-3-pok-45-m2-katowice-giszowiec-ID4b5Ts.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/katowice-morawa-3-pokoje-ID4dRUr.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/katowice-morawa-3-pokoje-ID4dRUr.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/brynow-ul-gallusa-mieszkanie-45m2-ID4dPtR.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/brynow-ul-gallusa-mieszkanie-45m2-ID4dPtR.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/katowice-morawa-3-pokoje-do-zamieszkania-ID4dPiq.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/katowice-morawa-3-pokoje-do-zamieszkania-ID4dPiq.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/mieszkanie-46-33-m-katowice-ID4cIwM.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/mieszkanie-46-33-m-katowice-ID4cIwM.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/tysiaclecie-ul-boleslawa-chrobrego-38-ID4dNSP.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/tysiaclecie-ul-boleslawa-chrobrego-38-ID4dNSP.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/3-pokoje-blisko-centrum-ID4dNLs.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/3-pokoje-blisko-centrum-ID4dNLs.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/wyjatkowo-ciche-3-pokoje-blisko-parku-ID4dECx.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/wyjatkowo-ciche-3-pokoje-blisko-parku-ID4dECx.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/do-wlasnej-aranzacji-wolne-od-zaraz-ID4dNBA.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/do-wlasnej-aranzacji-wolne-od-zaraz-ID4dNBA.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/mieszkanie-giszowiec-niski-blok-ID4dz8z.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/mieszkanie-giszowiec-niski-blok-ID4dz8z.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/mieszkanie-3-pokoje-z-balkonem-super-lokalizacja-ID4dMQh.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/mieszkanie-3-pokoje-z-balkonem-super-lokalizacja-ID4dMQh.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/3-niezalezne-pokoje-z-balkonem-giszowiec-60m2-wid-ID4dlHB.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/3-niezalezne-pokoje-z-balkonem-giszowiec-60m2-wid-ID4dlHB.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/katowice-kokociniec-3-pok-z-balkonem-i-pietro-ID4dM8L.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/katowice-kokociniec-3-pok-z-balkonem-i-pietro-ID4dM8L.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/3-pokoje-z-21m2-tarasem-ID3WYny.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/3-pokoje-z-21m2-tarasem-ID3WYny.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/mieszkanie-katowice-w-najlepszej-lokalizacji-ID4cDuz.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/mieszkanie-katowice-w-najlepszej-lokalizacji-ID4cDuz.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/w-przygotowaniu-3-pokoje-giszowiec-bez-prowizji-ID4dKZt.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/w-przygotowaniu-3-pokoje-giszowiec-bez-prowizji-ID4dKZt.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/spokojna-i-zielona-okolica-ID4dElZ.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/spokojna-i-zielona-okolica-ID4dElZ.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/3-pokoje-cicha-uliczka-przy-glownej-alei-parku-sl-ID4dIhE.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/3-pokoje-cicha-uliczka-przy-glownej-alei-parku-sl-ID4dIhE.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/mieszkanie-osiedle-tysiaclecia-ID4cGqD.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/mieszkanie-osiedle-tysiaclecia-ID4cGqD.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/8-roi-3-niezalezne-pokoje-ID4cuT3.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/8-roi-3-niezalezne-pokoje-ID4cuT3.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/mieszkanie-garaz-ID4cBjK.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/mieszkanie-garaz-ID4cBjK.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/mieszkanie-na-sprzedaz-trzy-pokoje-balkon-ID4c4TE.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/mieszkanie-na-sprzedaz-trzy-pokoje-balkon-ID4c4TE.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/3-pokoje-katowice-ul-wojciecha-bez-prowizji-ID4dCUD.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/3-pokoje-katowice-ul-wojciecha-bez-prowizji-ID4dCUD.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/rezerwacja-2-lub-3-pokoje-myslowicka-47m2-ID4dCRl.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/rezerwacja-2-lub-3-pokoje-myslowicka-47m2-ID4dCRl.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/przestronne-mieszkanie-w-myslowicach-z-ogrodkiem-ID4dzDd.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/przestronne-mieszkanie-w-myslowicach-z-ogrodkiem-ID4dzDd.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/dwa-balkony-rodzinne-3-pokoje-z-widokiem-na-las-ID4dzCt.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/dwa-balkony-rodzinne-3-pokoje-z-widokiem-na-las-ID4dzCt.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/2-3-pokojowe-chorzow-batory-czempiela-ID4dSkB.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/2-3-pokojowe-chorzow-batory-czempiela-ID4dSkB.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/3-pokoje-chorzow-ul-gwarecka-ID4dRgk.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/3-pokoje-chorzow-ul-gwarecka-ID4dRgk.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/m4-chorzow-klimzowiec-ul-krzywa-okazja-ID4dQIZ.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/m4-chorzow-klimzowiec-ul-krzywa-okazja-ID4dQIZ.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/duze-ustawne-3-pokoje-chorzow-ul-dabrowskiego-ID4dQi1.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/duze-ustawne-3-pokoje-chorzow-ul-dabrowskiego-ID4dQi1.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/mieszkanie-50-90-m-chorzow-ID4dQfk.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/mieszkanie-50-90-m-chorzow-ID4dQfk.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/chorzow-rozanka-3-pokoje-ID4dwOe.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/chorzow-rozanka-3-pokoje-ID4dwOe.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/dwu-pak-4km-od-katowic-a-za-rok-co-tauron-cieplo-ID4dC7e.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/dwu-pak-4km-od-katowic-a-za-rok-co-tauron-cieplo-ID4dC7e.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/mieszkanie-54-7m2-raclawicka-chorzow-ID4c1wS.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/mieszkanie-54-7m2-raclawicka-chorzow-ID4c1wS.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/ul-budryka-przy-domino-park-ID4c9AU.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/ul-budryka-przy-domino-park-ID4c9AU.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/mieszkanie-3-pokoje-amelung-balkon-ID4dMRc.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/mieszkanie-3-pokoje-amelung-balkon-ID4dMRc.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/mieszkanie-do-wejscia-na-amelungu-ID4dyyk.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/mieszkanie-do-wejscia-na-amelungu-ID4dyyk.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/chorzow-amelung-3-pokoje-po-remoncie-ID4dIRA.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/chorzow-amelung-3-pokoje-po-remoncie-ID4dIRA.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/do-sprzedania-3-pokoje-w-chorzowie-ul-weglowa-ID4dIWF.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/do-sprzedania-3-pokoje-w-chorzowie-ul-weglowa-ID4dIWF.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/sprzedam-m4-amelung-skalka-ul-gwarecka-ID4dIPw.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/sprzedam-m4-amelung-skalka-ul-gwarecka-ID4dIPw.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/mieszkanie-po-remoncie-osiedle-budryka-ID4cADv.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/mieszkanie-po-remoncie-osiedle-budryka-ID4cADv.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/chorzow-klimzowiec-ladne-m4-bez-prowizji-ID4dIr9.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/chorzow-klimzowiec-ladne-m4-bez-prowizji-ID4dIr9.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/3-pokoje-z-dobrym-dojazdem-do-katowic-ID4cEQP.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/3-pokoje-z-dobrym-dojazdem-do-katowic-ID4cEQP.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/mieszkanie-3-pokoje-loggia-2-m2-i-pietro-chorzow-ID4b5Iq.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/mieszkanie-3-pokoje-loggia-2-m2-i-pietro-chorzow-ID4b5Iq.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/mieszkanie-66-m-chorzow-ID4cUhW.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/mieszkanie-66-m-chorzow-ID4cUhW.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/chorzow-katowicka-idealne-pod-wynajem-ID4dGbN.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/chorzow-katowicka-idealne-pod-wynajem-ID4dGbN.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/3-pokojowe-mieszkanie-chorzow-batory-ID4dFUO.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/3-pokojowe-mieszkanie-chorzow-batory-ID4dFUO.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/chorzow-3-pokoje-balkon-ID4cMUC.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/chorzow-3-pokoje-balkon-ID4cMUC.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/mieszkanie-3-pok-z-balkonem-w-dobrej-lokalizacji-ID4cvnj.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/mieszkanie-3-pok-z-balkonem-w-dobrej-lokalizacji-ID4cvnj.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/rezerwacja-ID4dBWq.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/rezerwacja-ID4dBWq.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/duze-bezczynszowe-mieszkanie-w-potencjalem-w-kamie-ID4dx6T.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/duze-bezczynszowe-mieszkanie-w-potencjalem-w-kamie-ID4dx6T.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/okazja-3-pok-widokowe-z-wyposazeniem-ID4dunO.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/okazja-3-pok-widokowe-z-wyposazeniem-ID4dunO.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/3-pokoje-z-duzym-balkonem-i-widokiem-na-zielen-ID4dvZP.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/3-pokoje-z-duzym-balkonem-i-widokiem-na-zielen-ID4dvZP.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/przestronne-3-pokojowe-mieszkanie-wirek-ID4dRgx.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/przestronne-3-pokojowe-mieszkanie-wirek-ID4dRgx.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/po-remoncie-bezczynszowe-z-wlasnym-podworkiem-ID4dBty.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/po-remoncie-bezczynszowe-z-wlasnym-podworkiem-ID4dBty.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/3-pokoje-po-remoncie-ID4dQH6.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/3-pokoje-po-remoncie-ID4dQH6.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/mieszkanie-w-inwestycji-osiedle-nova-ruda-b1km8-ID4dyIo.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/mieszkanie-w-inwestycji-osiedle-nova-ruda-b1km8-ID4dyIo.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/mieszkanie-nowy-bytom-ID4dB5K.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/mieszkanie-nowy-bytom-ID4dB5K.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/m4-do-zamieszkania-ID4cv09.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/m4-do-zamieszkania-ID4cv09.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/wirek-3-pokoje-do-remontu-odswiezenia-ID4dNTI.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/wirek-3-pokoje-do-remontu-odswiezenia-ID4dNTI.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/mieszkanie-55-m2-bielszowice-ID4dOiv.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/mieszkanie-55-m2-bielszowice-ID4dOiv.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/mieszkanie-61-m2-bielszowice-ID4dOis.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/mieszkanie-61-m2-bielszowice-ID4dOis.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/mieszkanie-z-garazem-ID4duXQ.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/mieszkanie-z-garazem-ID4duXQ.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/sprzedam-komfortowe-mieszkanie-w-rudzie-slaskiej-ID4dAoC.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/sprzedam-komfortowe-mieszkanie-w-rudzie-slaskiej-ID4dAoC.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/sprzedam-mieszkanie-ruda-slaska-nowy-bytom-ID4dAcq.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/sprzedam-mieszkanie-ruda-slaska-nowy-bytom-ID4dAcq.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/lokalizacja-10-min-gliwice-katowice-3-pokoje-ID4dAHJ.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/lokalizacja-10-min-gliwice-katowice-3-pokoje-ID4dAHJ.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/atrakcyjne-3-pokoje-w-idealnej-lokalizacji-54m2-ID4bXy7.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/atrakcyjne-3-pokoje-w-idealnej-lokalizacji-54m2-ID4bXy7.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/mieszkanie-bykowina-gornoslaska-po-remoncie-60m-ID4cWvI.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/mieszkanie-bykowina-gornoslaska-po-remoncie-60m-ID4cWvI.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/mieszkanie-49m2-po-generalnym-remoncie-ID4d9kq.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/mieszkanie-49m2-po-generalnym-remoncie-ID4d9kq.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/mieszkanie-3-pokoje-godula-ul-joanny-prywatnie-ID4cUPx.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/mieszkanie-3-pokoje-godula-ul-joanny-prywatnie-ID4cUPx.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/3-pokoje-po-remoncie-ID4dLlb.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/3-pokoje-po-remoncie-ID4dLlb.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/sprzedam-mieszkanie-ruda-slaska-wirek-ID4dvSS.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/sprzedam-mieszkanie-ruda-slaska-wirek-ID4dvSS.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/przestronny-loftowy-apartemant-z-antresola-ID4dvkB.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/przestronny-loftowy-apartemant-z-antresola-ID4dvkB.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/halemba-3-pokoje-po-generalnym-remoncie-ID4diCX.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/halemba-3-pokoje-po-generalnym-remoncie-ID4diCX.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/ruda-slaska-bykowina-66-9m2-3-pokoje-mieszkanie-ID4cJG5.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/ruda-slaska-bykowina-66-9m2-3-pokoje-mieszkanie-ID4cJG5.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/bardzo-ladne-3-pokojowe-po-remoncie-blok-ID4dIJQ.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/bardzo-ladne-3-pokojowe-po-remoncie-blok-ID4dIJQ.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/ruda-slaska-wirek-3-pokoje-ID4d1XF.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/ruda-slaska-wirek-3-pokoje-ID4d1XF.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/trzy-pokoje-michalkowice-z-wyposazaniem-ID4dT5C.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/trzy-pokoje-michalkowice-z-wyposazaniem-ID4dT5C.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/piekne-wyremontowane-nowoczesne-ul-zgrzebnioka-ID4dcjq.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/piekne-wyremontowane-nowoczesne-ul-zgrzebnioka-ID4dcjq.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/siemianowice-slaskie-bytkow-3-pokoje-okazja-ID4d6qg.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/siemianowice-slaskie-bytkow-3-pokoje-okazja-ID4d6qg.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/siemianowice-sl-michalkowice-3-tanio-ID4d72e.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/siemianowice-sl-michalkowice-3-tanio-ID4d72e.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/siemianowice-sl-bytkow-al-mlodych-54m-3pok-balkon-ID4da7G.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/siemianowice-sl-bytkow-al-mlodych-54m-3pok-balkon-ID4da7G.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/mieszkanie-do-remontu-3-pokoje-bytkow-ID4bAbs.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/mieszkanie-do-remontu-3-pokoje-bytkow-ID4bAbs.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/siemianowice-sl-3-pokoje-ul-trafalczyka-ID4da8a.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/siemianowice-sl-3-pokoje-ul-trafalczyka-ID4da8a.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/siemianowice-bytkow-3pokoje-54m2-os-mlodych-ID4dHXi.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/siemianowice-bytkow-3pokoje-54m2-os-mlodych-ID4dHXi.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/3-pokoje-w-niskiej-cenie-ul-sikorskiego-ID4dGZQ.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/3-pokoje-w-niskiej-cenie-ul-sikorskiego-ID4dGZQ.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/nowy-apartament-wysoki-standard-siemianowice-ID4de54.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/nowy-apartament-wysoki-standard-siemianowice-ID4de54.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/siem-ce-sl-bytkow-m4-po-remoncie-bez-prowizji-ID4dAxv.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/siem-ce-sl-bytkow-m4-po-remoncie-bez-prowizji-ID4dAxv.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/wyremontowane-m4-z-balkonem-blok-z-co-miejskim-ID4dsnv.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/wyremontowane-m4-z-balkonem-blok-z-co-miejskim-ID4dsnv.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/wyremontowane-3-pokojowe-w-bloku-balkon-ID4dRPy.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/wyremontowane-3-pokojowe-w-bloku-balkon-ID4dRPy.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/swietochlowice-chropaczow-jodlowa-70m2-3-pokoje-ID4ds5C.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/swietochlowice-chropaczow-jodlowa-70m2-3-pokoje-ID4ds5C.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/mieszkanie-70-60-m-swietochlowice-ID4dvqx.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/mieszkanie-70-60-m-swietochlowice-ID4dvqx.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/cztery-pokoje-winda-balkon-piwnica-komorka-ID4dzD7.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/cztery-pokoje-winda-balkon-piwnica-komorka-ID4dzD7.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/mieszkanie-z-ogrodkiem-do-remontu-ostatnie-ID4dhz6.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/mieszkanie-z-ogrodkiem-do-remontu-ostatnie-ID4dhz6.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/m4-na-piasnikach-gotowe-do-zamieszkania-ID4dObE.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/m4-na-piasnikach-gotowe-do-zamieszkania-ID4dObE.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/sw-ce-ul-slaska-3-pokoje-ladne-ID4dxI3.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/sw-ce-ul-slaska-3-pokoje-ladne-ID4dxI3.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/mieszkanie-65-34-m-swietochlowice-ID4dycI.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/mieszkanie-65-34-m-swietochlowice-ID4dycI.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/3-pokoje-balkon-dts-skalka-niski-blok-c-o-z-sieci-ID4dLfs.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/3-pokoje-balkon-dts-skalka-niski-blok-c-o-z-sieci-ID4dLfs.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/mieszkanie-piasniki-sprzedam-bez-posrednikow-ID4dy71.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/mieszkanie-piasniki-sprzedam-bez-posrednikow-ID4dy71.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/53m2-w-centrum-z-balkonem-i-rezerwacja-ID4duMA.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/53m2-w-centrum-z-balkonem-i-rezerwacja-ID4duMA.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/3-pokoje-swietochlowice-i-pietro-ID4d0iJ.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/3-pokoje-swietochlowice-i-pietro-ID4d0iJ.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/mieszkanie-piasniki-51m-3-pokoje-po-remoncie-ID4dGbU.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/mieszkanie-piasniki-51m-3-pokoje-po-remoncie-ID4dGbU.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/mieszkanie-47-m2-lub-80-m2-swietochlowice-centrm-ID4cnd6.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/mieszkanie-47-m2-lub-80-m2-swietochlowice-centrm-ID4cnd6.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/m-4-swietochlowice-szpitalna-do-negocjacji-ID4dygn.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/m-4-swietochlowice-szpitalna-do-negocjacji-ID4dygn.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/3-pokoje-gotowe-po-remoncie-ID4d8eR.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/3-pokoje-gotowe-po-remoncie-ID4d8eR.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/mieszkanie-49-m-myslowice-ID4cZoV.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/mieszkanie-49-m-myslowice-ID4cZoV.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/myslowice-brzeczkowice-saperow-sl-62m2-3pok-balkon-ID4dMG4.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/myslowice-brzeczkowice-saperow-sl-62m2-3pok-balkon-ID4dMG4.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/3-pokoje-centrum-ul-mickiewicza-ID4c4Lj.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/3-pokoje-centrum-ul-mickiewicza-ID4c4Lj.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/mieszkanie-101m2-ogrodek-2-garaze-na-cmoku-ID4dJ0z.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/mieszkanie-101m2-ogrodek-2-garaze-na-cmoku-ID4dJ0z.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/myslowice-brzeczkowice-m-4-polecam-ID49smE.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/myslowice-brzeczkowice-m-4-polecam-ID49smE.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/rezerwacja-mieszkanie-z-meblami-ul-nowowiejskieg-ID4cajr.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/rezerwacja-mieszkanie-z-meblami-ul-nowowiejskieg-ID4cajr.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/mieszkanie-3-pokoje-z-balkonem-klimatyzacja-ID4dGi4.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/mieszkanie-3-pokoje-z-balkonem-klimatyzacja-ID4dGi4.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/mieszkanie-m4-50-m2-myslowice-licytacja-msm-ID4dpW0.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/mieszkanie-m4-50-m2-myslowice-licytacja-msm-ID4dpW0.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/3-pokoje-balkon-c-o-mozliwosc-remontu-ID4d74e.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/3-pokoje-balkon-c-o-mozliwosc-remontu-ID4d74e.html?... Success.
+--
+Attemping to set advert object with an URL of https://www.otodom.pl/pl/oferta/przestronne-mieszkanie-w-myslowicach-z-ogrodkiem-ID4dzCY.html? site data... Success.
+Attemping to set fields of object with an URL of https://www.otodom.pl/pl/oferta/przestronne-mieszkanie-w-myslowicach-z-ogrodkiem-ID4dzCY.html?... Success.
+--
